@@ -34,6 +34,7 @@
 #   * #keymask!(ruleset) Performs ruleset on self, returning result. (faster)
 #
 class Keymask
+  require "keymask_methods"
 
   def set_rules(rules_hash)
     begin

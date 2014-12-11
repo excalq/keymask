@@ -2,7 +2,7 @@
 
 _December 10, 2014 Arthur Ketcham, written for GoWatchIt.com_
 
-_Version: 0.0.0_
+_Version: 0.0.1_
 
 #### What
 
@@ -45,3 +45,7 @@ _Version: 0.0.0_
   * `(Hash|Array)#keymask(ruleset)` Returns a copy of self, with the ruleset applied
   * `(Hash|Array)#keymask!(ruleset)` Performs ruleset on self, returning result. (faster)
 
+
+#### To Be Completed
+  * Support for symbolized keys
+  * TESTS!!!
