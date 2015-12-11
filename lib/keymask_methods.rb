@@ -1,5 +1,4 @@
 # Monkey Patch this into Hash and Array.
-# This makes me nervous... should it?
 module KeymaskMethods
   def keymask!(rules)
     km = Keymask.new
