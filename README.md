@@ -1,6 +1,6 @@
 ### Keymask Gem
 
-_December 10, 2014 Arthur Ketcham, written for GoWatchIt.com_
+_December 10, 2014 Arthur Ketcham_
 
 _Version: 0.0.1_
 
